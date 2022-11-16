@@ -1,32 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 2,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
+                "id": null,
+                "name": "India TV News"
             },
-            "author": null,
-            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-            "publishedAt": "2020-04-27T11:41:47Z",
-            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+            "author": "Written by Vaishali Jain",
+            "title": "Krishna last rites: Prabhas, Vijay Deverakonda reach to console Mahesh Babu | LIVE UPDATES - India TV News",
+            "description": "Krishna Last Rites Highlights: Mahesh Babu's father and veteran Tollywood superstar Krishna has been laid to rest in Hyderabad with full state honours.",
+            "url": "https://www.indiatvnews.com/entertainment/celebrities/krishna-last-rites-live-updates-mahesh-babu-ghattamaneni-family-funeral-prabhas-ram-charan-jr-ntr-latest-photos-videos-824162",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/11/krishna-15-1668589246.jpg",
+            "publishedAt": "2022-11-16T10:25:08Z",
+            "content": "Krishna Last Rites Highlights: The 80 year-old superstar, Ghattamaneni Sivarama Krishna, popularly known as Krishna was laid to rest today in Hyderabad. He was cremated with full state honours at Mah… [+639 chars]"
         },
         {
             "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "IPL Retention: Rajasthan Royals Hit 'R Ashwin Release Rumours' Out Of The Park With Epic Tweet - NDTV Sports",
+            "description": "Rumours of Ravichandran Ashwin being released by Rajasthan Royals had gone viral ahead of the retention deadline on Tuesday. The franchise later took to Twitter to troll those who believed in the false rumours.",
+            "url": "https://sports.ndtv.com/ipl-2023/ipl-retention-rajasthan-royals-hit-r-ashwin-release-rumours-out-of-the-park-with-epic-tweet-3525341",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/8qmahec8_ravichandran-ashwin_625x300_16_November_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-11-16T10:08:53Z",
+            "content": "All 10 Indian Premier League (IPL) franchises revealed the list of their retained and released players on Tuesday, setting the foundation for the 2023 edition of the T20 league. Not long before the d… [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, Rhea Mogul",
+            "title": "G20 leaders' declaration condemns Russia's war 'in strongest terms' - CNN",
+            "description": "Russia's international isolation grew Wednesday, as world leaders issued a joint declaration condemning its war in Ukraine that has killed thousands of people and roiled the global economy.",
+            "url": "https://www.cnn.com/2022/11/16/asia/g20-summit-day-2-russia-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116005350-sergei-lavrov-g20-summit-111622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-16T10:01:00Z",
+            "content": "Russias international isolation grew Wednesday, as world leaders issued a joint declaration condemning its war in Ukraine that has killed thousands of people and roiled the global economy.\r\nThe Group… [+6190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
             },
             "author": null,
-            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-            "publishedAt": "2020-03-30T15:26:05Z",
-            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+            "title": "Ravindra Jadeja's Update Linked To Wife Who Is Gujarat BJP Candidate - NDTV",
+            "description": "Cricketer Ravindra Jadeja announced on Wednesday that his wife Rivaba Jadeja, a candidate in the upcoming Gujarat assembly elections, has joined Twitter.",
+            "url": "https://www.ndtv.com/india-news/ravindra-jadejas-update-linked-to-wife-who-is-gujarat-bjp-candidate-3525472",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/lhkl0or8_rivaba-jadeja_625x300_16_November_22.jpg",
+            "publishedAt": "2022-11-16T09:18:23Z",
+            "content": "Mr Jadeja has been batting for his wife ahead of the state elections.\r\nNew Delhi: Cricketer Ravindra Jadeja announced on Wednesday that his wife Rivaba Jadeja, a candidate in the upcoming Gujarat ass… [+1365 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Congress's Ajay Maken Quits As Rajasthan In-Charge, Cites Rebellion - NDTV",
+            "description": "Congress leader Ajay Maken has quit as the party's Rajasthan in-charge, sources have said, indicating he is upset with the turn of events in September when Chief Minister Ashok Gehlot at the last minute refused to give up the post.",
+            "url": "https://www.ndtv.com/india-news/congresss-ajay-maken-quits-as-party-in-charge-for-rajasthan-cites-no-action-against-team-gehlot-mlas-who-had-rebelled-sources-3525267",
+            "urlToImage": "https://c.ndtvimg.com/2022-09/c5v8ufgo_ajay-maken-pti-650_650x400_26_September_22.jpg",
+            "publishedAt": "2022-11-16T09:11:00Z",
+            "content": "Ajay Maken has quit as the Congress's Rajasthan in-charge\r\nJaipur: Congress leader Ajay Maken has quit as the party's Rajasthan in-charge, sources have said, indicating he is upset with the turn of e… [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Harikishan Sharma",
+            "title": "Who is Arvind Virmani, appointed full-time member of NITI Aayog - The Indian Express",
+            "description": "Arvind Virmani has been appointed the NITI Aayog member with 'immediate effect', the government has announced.",
+            "url": "https://indianexpress.com/article/explained/who-is-arvind-virmani-appointed-full-time-member-of-niti-aayog-8271730/",
+            "urlToImage": "https://images.indianexpress.com/2022/11/arvind-virmani-1200.jpg",
+            "publishedAt": "2022-11-16T08:56:55Z",
+            "content": "Virmani, founder-chairman of the non-profit public policy organisation Foundation for Economic Growth and Welfare, has served as the Chief Economic Advisor in the Ministry of Finance during the Manmo… [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "'Someone paid money but...': AAP's Sisodia on 'cash-for-ticket' row | VIDEO - Hindustan Times",
+            "description": "Delhi votes in the long-pending municipal body election next month, with the BJP looking to retain control of the civic body in the national capital, where the AAP is in power. | Latest News Delhi",
+            "url": "https://www.hindustantimes.com/cities/delhi-news/tickets-not-sold-in-aap-manish-sisodia-hits-back-in-cash-for-ticket-row-101668582776469.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/11/16/1600x900/726ba676-6128-11ed-b515-ce26ce0b484a_1668106303399_1668582792989_1668582792989.jpg",
+            "publishedAt": "2022-11-16T08:25:59Z",
+            "content": "Delhi deputy chief minister Manish Sisodia declared Wednesday that 'tickets are not sold in the AAP' and called for an 'unbiased' inquiry after the family member of an Aam Aadmi Party MLA and two oth… [+1933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "Apple's Satellite based SOS service live in US and Canada for iPhone 14 users - Moneycontrol",
+            "description": "The service will connect you to dedicated PSAP or Apple relay centres in case of emergency",
+            "url": "https://www.moneycontrol.com/news/technology/apples-satellite-based-sos-service-live-in-us-and-canada-for-iphone-14-users-9545461.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/11/iPhone-14-SOS-770x433.jpg",
+            "publishedAt": "2022-11-16T08:23:28Z",
+            "content": "Apple's satellite based SOS service is now available for iPhone 14 users in the United States and Canada. The service uses a satellite network to send an emergency SOS message if you find yourself in… [+1370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OpIndia"
+            },
+            "author": "OpIndia Staff",
+            "title": "Kejriwal's 'kidnapped' candidate Kanchan Jariwala withdraws nomination ahead of Gujarat polls - OpIndia",
+            "description": "Political landscape in Gujarat takes a dramatic turn as the AAP candidate who was 'kidnapped', turns up at Election Office to withdraw his nomination ahead of polls. | OpIndia News",
+            "url": "https://www.opindia.com/2022/11/arvind-kejriwal-kanchan-jariwala-kidnapped/",
+            "urlToImage": "https://www.opindia.com/wp-content/uploads/2022/11/kanchan-jariwala.jpg",
+            "publishedAt": "2022-11-16T08:19:35Z",
+            "content": "The political turmoil intensified before the assembly elections in Gujarat. The Aam Aadmi Party, on 15th November 2022 accused the Bharatiya Janata Party of kidnapping its candidate Kanchan Jariwala.… [+3819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "\"Reply By Evening, Or...\": Court Slams Civic Body Over Gujarat Bridge Tragedy - NDTV",
+            "description": "\"Yesterday you were acting smart, now you are taking it casually,\" said court, \"So, either file your reply by this evening, or pay fine of Rs 1 lakh.\"",
+            "url": "https://www.ndtv.com/india-news/gujarat-bridge-collapse-high-court-slams-morbi-civic-body-for-being-casual-says-reply-by-this-evening-or-pay-rs-1-lakh-fine-3524973",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/7kadfqtk_morbi-bridge-collapse-gujarat-bridge-collapse-pti_625x300_01_November_22.jpg",
+            "publishedAt": "2022-11-16T07:53:00Z",
+            "content": "Cables of 150-year-old bridge over Machchu river collapsed last month, killing over 130 people. (File)\r\nAhmedabad: The Gujarat High Court today warned the civic body of Morbi, where a bridge collapse… [+2637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Delhi Murder: Killer Who Chopped Girlfriend's Body Was Caught By His Lies - NDTV",
+            "description": "Bank transfer from victim Shraddha Walkar's phone to killer Aftab Poonawala, her Instagram chat history and mobile location helped cops crack the case",
+            "url": "https://www.ndtv.com/india-news/sharaddha-walkar-murder-aftab-poonawala-how-killer-was-caught-in-his-own-web-of-lies-in-delhi-live-in-partner-murder-3524702",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/l1kpo54_aftab-ameen-instagram_625x300_15_November_22.jpg",
+            "publishedAt": "2022-11-16T07:49:00Z",
+            "content": "New Delhi: How did Aftab Poonawala, the man who allegedly killed his live-in partner Shraddha Walkar and cut her into pieces that he scattered in a jungle six months ago, finally get arrested for mur… [+2820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Yordan",
+            "title": "Oppo' Camp Guard shooter shows the best of Snapdragon 8 Gen 2's ray tracing - GSMArena.com news - GSMArena.com",
+            "description": "The company confirmed the chipset will be used in its next Find X flagship.",
+            "url": "https://www.gsmarena.com/oppo_camp_guard_shooter_shows_the_best_of_snapdragon_8_gen_2s_ray_tracing-news-56541.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/11/oppo-qualcomm-ray-tracing-partnership/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2022-11-16T07:39:01Z",
+            "content": "Qualcomm just introduced the Snapdragon 8 Gen 2, and one of the key talking points was the chips capabilities for hardware-accelerated ray tracing. Today, Oppo gave us an insight into how the feature… [+1616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "NASA Launches Mega Rocket 'Artemis 1' On Maiden Flight To Moon - NDTV",
+            "description": "NASA launched the most powerful rocket ever built on a journey to the Moon on Wednesday.",
+            "url": "https://www.ndtv.com/world-news/nasa-launches-mega-rocket-artemis-1-on-maiden-flight-to-moon-3525042",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/j21h59jc_nasa-artemis-launch_625x300_16_November_22.jpg",
+            "publishedAt": "2022-11-16T07:21:02Z",
+            "content": "Artemis 1 unmanned lunar rocket lifts off from launch pad at Florida.\r\nFlorida, US: NASA launched the most powerful rocket ever built on a journey to the Moon on Wednesday, in a spectacular blaze of … [+3591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "On India, Pakistan's 'T20 Philosophy', Babar Azam's Response To Journalist - NDTV Sports",
+            "description": "Both India and Pakistan have been criticised throughout the World Cup for their slow \r\nstarts in the powerplays.",
+            "url": "https://sports.ndtv.com/t20-world-cup-2022/on-india-pakistans-t20-philosophy-babar-azams-response-to-journalist-3521054",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/ne7l32a_babar-azam-afp_625x300_15_November_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-11-16T06:53:00Z",
+            "content": "Babar Azam-led Pakistan stumbled to a five-wicket defeat against England in the T20 World Cup final on Sunday and their dream of winning the tournament for the second time was over. After the match, … [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Explained Desk",
+            "title": "Missile in Poland: Who fired it and why it's a big deal - The Indian Express",
+            "description": "Missile in Poland, 2 dead: This is the first confirmed instance of the war in Ukraine having caused casualties directly in another country.",
+            "url": "https://indianexpress.com/article/explained/poland-missile-russia-ukraine-war-nato-8270794/",
+            "urlToImage": "https://images.indianexpress.com/2022/11/Poland-1.jpg",
+            "publishedAt": "2022-11-16T06:41:02Z",
+            "content": "Two Polish citizens have been killed after a missile landed in eastern Poland about 15 miles from the countrys border with Ukraine, Western media are reporting. This is the first confirmed instance o… [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Spacewalk Live | Spacewalk At The International Space Station | International Space Station Live - CNN-News18",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLUH3a3Q6KLI",
+            "urlToImage": null,
+            "publishedAt": "2022-11-16T04:56:38Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Garena Free Fire Max redeem codes for November 16, 2022: Check details | Mint - Mint",
+            "description": "The creators keep updating these in-game codes daily. The company has also created a separate website from which players can redeem the available codes. The reward codes will be available to the first 500 users only.",
+            "url": "https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-november-16-2022-check-details-11668573681682.html",
+            "urlToImage": "https://images.livemint.com/img/2022/11/16/600x338/gg_1668573752178_1668573762287_1668573762287.png",
+            "publishedAt": "2022-11-16T04:45:00Z",
+            "content": "Garena Free Fire Max redeem codes for November 16 are now available. The redeem codes consist of 12 characters having capital letters and digits. These codes can be used to obtain rewards like weapon… [+1667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "Medanta operator Global Health surges 19% on debut - Moneycontrol",
+            "description": "The IPO was subscribed 9.58 times during November 3-7",
+            "url": "https://www.moneycontrol.com/news/business/ipo/medanta-operator-global-health-surges-19-on-debut-9542311.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/10/sensex_nifty-marketup_sensexup-Niftyup-770x433.jpg",
+            "publishedAt": "2022-11-16T04:30:18Z",
+            "content": "Global Health, operator of Medanta chain of hospitals, soared 19 percent on debut, listing at Rs 398.15 on the BSE and Rs 401 on the NSE.\r\nThis comes after the IPO was subscribed 9.58 times during No… [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hydrogen leak aboard Artemis mission rocket prompts crews to repair launcher - WKMG News 6 ClickOrlando",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX4H-6VdyTQI",
+            "urlToImage": null,
+            "publishedAt": "2022-11-16T04:24:25Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sharangee Dutta",
+            "title": "Elon Musk ‘welcomes back’ sacked Twitter employees. But there's a catch… - Hindustan Times",
+            "description": "Taking to Twitter on Wednesday, Tesla CEO and the new owner of the social media platform, Elon Musk said that it's “important to admit” when he is wrong.",
+            "url": "https://www.hindustantimes.com/business/elon-musk-welcomes-back-sacked-twitter-employees-but-there-s-a-catch-101668568631473.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/11/16/1600x900/elon_musk_twitter_rehires_sacked_employees_tweet_1668572478140_1668572478382_1668572478382.JPG",
+            "publishedAt": "2022-11-16T04:23:08Z",
+            "content": "In latest take on the row over mass layoffs in Twitter since he took over the social media platform, Tesla CEO Elon Musk said on Wednesday that he has rehired two employees who were laid off last mon… [+2156 chars]"
         }
     ]
 }
