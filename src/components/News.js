@@ -17,17 +17,18 @@ export class News extends Component {
         category: PropTypes.string
     }
 
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             articles: [],
             loading: false,
             page: 1
         }
+        document.title = `${this.firstLetterCapitalization(this.props.category)}- The News Monkey App`;
     }
 
-    async componentDidMount() {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=af97a709ba8f4e67a578c8e873cf141e&page=1&pagesize=${this.props.pageSize}`
+    async updatedNews(page){
+        const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=af97a709ba8f4e67a578c8e873cf141e&page=${this.state.page}&pagesize=${this.props.pageSize}`
         this.setState({loading: true})
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -35,32 +36,21 @@ export class News extends Component {
         loading: false })
     }
 
+    async componentDidMount() {
+        this.updatedNews();
+    }
+
     handlePrevClick = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=af97a709ba8f4e67a578c8e873cf141e&page=${this.state.page - 1}&pagesize=${this.props.pageSize}`;
-        this.setState({loading: true})
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        this.setState({
-            page: this.state.page - 1,
-            articles: parsedData.articles,
-            loading: false
-        })
     }
 
     handleNextClick = async () => {
-        if (!(this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize))) {
-            let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=af97a709ba8f4e67a578c8e873cf141e&page=${this.state.page + 1}&pagesize=${this.props.pageSize}`;
-            this.setState({loading: true})
-            let data = await fetch(url);
-            let parsedData = await data.json();
-            this.setState({loading: false})
-            this.setState({
-                page: this.state.page + 1,
-                articles: parsedData.articles
-            })
-        }
+        this.setState({page: this.state.page + 1});
+        this.updatedNews()
     }
 
+    firstLetterCapitalization = (e) =>{
+        return e.charAt(0).toUpperCase() +e.slice(1);
+    }
 
     render() {
         return (
