@@ -11,7 +11,7 @@ const News = (props) => {
     const [loading, setloading] = useState(true)
     const [page, setpage] = useState(1)
     const [totalResults, settotalResults] = useState(0)
-    // document.title = `${firstLetterCapitalization(props.category)}- The News Monkey App`;
+    
     
     const updatedNews = async ()=> {
         props.setProgress(20);
@@ -28,17 +28,19 @@ const News = (props) => {
     }
 
     useEffect(() => {
+        document.title = `${firstLetterCapitalization(props.category)}- The News Monkey App`;
         updatedNews(); 
+        // eslint-disable-next-line 
     }, [])
 
 
-    // const firstLetterCapitalization = (e) => {
-    //     return e.charAt(0).toUpperCase() + e.slice(1);
-    // }
+    const firstLetterCapitalization = (e) => {
+        return e.charAt(0).toUpperCase() + e.slice(1);
+    }
 
-    const fetchMoreData = async () => {
+    const fetchMoreData = async () => {        
+        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pagesize=${props.pageSize}`
         setpage(page+1)
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pagesize=${props.pageSize}`
         let data = await fetch(url);
         let parsedData = await data.json();
         setarticles(articles.concat(parsedData.articles))
@@ -48,7 +50,7 @@ const News = (props) => {
         return (
             <>
                 <div className="container mx-3 my-3">
-                    <h1 className='text-center'>NewsMonkey- Top Headlines</h1>
+                    <h1 style={{marginTop: "70px"}} className='text-center'>NewsMonkey- Top Headlines</h1>
                     {loading && <Spinner />}
 
                     <InfiniteScroll style={{ overflow: "hidden" }}
