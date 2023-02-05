@@ -17,7 +17,7 @@ const News = (props) => {
 
   const updateNews = async () => {
     props.setProgress(10);
-    let url = `https://newsdata.io/api/1/news?apiKey=${props.apiKey}&country=${props.country}&category=${props.category}&page=${props.nextPage}`;
+    let url = `https://newsdata.io/api/1/news?apiKey=${props.apiKey}&country=${props.country}&category=${props.category}`;
     setLoading(true);
     console.log(url);
 
@@ -43,7 +43,7 @@ const News = (props) => {
   const fetchMoreData = async () => {
     let url = `https://newsdata.io/api/1/news?apiKey=${props.apiKey}&country=${
       props.country
-    }&category=${props.category}&page=${page + 1}`;
+    }&category=${props.category}`;
     console.log("url2", url);
     setPage(page + 1);
 
@@ -61,7 +61,7 @@ const News = (props) => {
         className="text-center"
         style={{ margin: "35px 0px", marginTop: "90px" }}
       >
-        NewsMania- Top {capitalizefirstletter(props.category)} Headlines
+        NewsMania- {capitalizefirstletter(props.category)} Headlines
       </h1>
       {loading && <Spinner />}
 
